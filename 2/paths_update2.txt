@@ -1,0 +1,6 @@
+2pl_(00)_Test.tga;/Maps
+4pl_(00)_Test.tga;/Maps
+6pl_(00)_Test.tga;/Maps
+8pl_(00)_Test.tga;/Maps
+Map2.ini;/Maps
+map2.jpg;/Maps

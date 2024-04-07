@@ -1,0 +1,4 @@
+8pl_FFA_GRID.tga;/Maps
+16pl_FFA_GRID.tga;/Maps
+Map4.ini;/Maps
+map4.jpg;/Maps

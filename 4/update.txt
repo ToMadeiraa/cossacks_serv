@@ -1,0 +1,5 @@
+/4/8pl_FFA_GRID.tga
+/4/16pl_FFA_GRID.tga
+/4/Map4.ini
+/4/map4.jpg
+/4/paths_update4.txt

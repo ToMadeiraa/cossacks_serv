@@ -1,0 +1,7 @@
+/2/2pl_(00)_Test.tga
+/2/4pl_(00)_Test.tga
+/2/6pl_(00)_Test.tga
+/2/8pl_(00)_Test.tga
+/2/Map2.ini
+/2/map2.jpg
+/2/paths_update2.txt

@@ -1,0 +1,10 @@
+/3/4pl_mask_rivers_spider_circle.tga
+/3/6pl_mask_rivers_spider_circle.tga
+/3/8pl_mask_rivers_spider_circle.tga
+/3/10pl_mask_rivers_spider_circle.tga
+/3/12pl_mask_rivers_spider_circle.tga
+/3/14pl_mask_rivers_spider_circle.tga
+/3/16pl_mask_rivers_spider_circle.tga
+/3/paths_update3.txt
+/3/map3.jpg
+/3/Map3.ini
